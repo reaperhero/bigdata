@@ -1,0 +1,49 @@
+doris/README.md
+  s_eae36ed13a2758::t_4b25b6db601153 1-4
+ranger/README.md
+  s_eae36ed13a2758::t_4b25b6db601153 1-4
+README.md
+  s_eae36ed13a2758::t_4b25b6db601153 16-30
+datax/README.md
+  s_eae36ed13a2758::t_4b25b6db601153 1-4
+presto/README.md
+  s_eae36ed13a2758::t_4b25b6db601153 1-4
+oozie/README.md
+  s_eae36ed13a2758::t_4b25b6db601153 1-4
+trino/README.md
+  s_eae36ed13a2758::t_4b25b6db601153 1-4
+impala/README.md
+  s_eae36ed13a2758::t_4b25b6db601153 1-4
+nifi/README.md
+  s_eae36ed13a2758::t_4b25b6db601153 1-4
+clickhouse/README.md
+  s_eae36ed13a2758::t_4b25b6db601153 1-4
+azkaban/README.md
+  s_eae36ed13a2758::t_4b25b6db601153 1-4
+atlas/README.md
+  s_eae36ed13a2758::t_4b25b6db601153 1-4
+elasticsearch/README.md
+  s_eae36ed13a2758::t_4b25b6db601153 1-4
+kudu/README.md
+  s_eae36ed13a2758::t_4b25b6db601153 1-4
+sqoop/README.md
+  s_eae36ed13a2758::t_4b25b6db601153 1-4
+openldap/README.md
+  s_eae36ed13a2758::t_4b25b6db601153 1-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "c88b7b7df3477de54bff2be301fd7d685f887e17",
+  "prompts": {},
+  "sessions": {
+    "s_eae36ed13a2758": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e297a-659d-7a23-8ff9-7a1864031c65",
+        "model": "gpt-5.5"
+      },
+      "human_author": "chenqiangjun <manlu@dtstack.com>"
+    }
+  }
+}
